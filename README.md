@@ -123,7 +123,8 @@ def KELUAR(self):
 
 ### FLAWCHART
 
-![Screenshot (199)](https://user-images.githubusercontent.com/115516474/206897711-93489889-a91c-46eb-a0ff-6b7c80bc3cff.png)
+![WhatsApp Image 2022-12-11 at 17 21 42](https://user-images.githubusercontent.com/115516474/206898464-7207df04-37a9-48ab-80ca-33d0d03ca5c8.jpeg)
+
 
 
 
