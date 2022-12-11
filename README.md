@@ -112,7 +112,8 @@ def KELUAR(self):
 
 ![2](https://user-images.githubusercontent.com/115516474/206897626-708b928e-9eaf-431e-bd57-7fdca01d3341.png)
 
-![3](https://user-images.githubusercontent.com/115516474/206897635-6b0afc8b-a58d-46da-8938-e8374b880a36.png)
+![3](https://user-images.githubusercontent.com/115516474/206897795-a83c791d-d277-400b-aa17-b70cffe096e1.png)
+
 
 ![22](https://user-images.githubusercontent.com/115516474/206897674-41095fe6-db48-4264-92a7-46d235290b64.png)
 
